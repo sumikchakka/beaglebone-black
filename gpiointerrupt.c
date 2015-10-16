@@ -37,7 +37,7 @@ static int __init gpiointerrupt_init(void)
     return 0;
 }
 
-static void __exit hello_exit(void)
+static void __exit gpiointerrupt_exit(void)
 {
 
     printk(KERN_INFO "exiting gpiointerrupt module\n");
