@@ -6,6 +6,6 @@ This repository includes kernel module and user application for Embedded linux o
 1.gpio interrupt:-
   In this module we are going to view how to create handle and delete the gpio interrupt for gpio 
 
-2.netlink call for kernel module 
+2.netlink call for kernel module :- 
   In this module we are going to view how to use netlink instead of system call for handling hardware
 
